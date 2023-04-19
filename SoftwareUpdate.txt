@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Remove unused variables (#8511)
