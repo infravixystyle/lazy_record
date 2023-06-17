@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
