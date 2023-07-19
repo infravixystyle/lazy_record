@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+ultralytics 8.1.2 scope HUB-SDK imports (#7596)
