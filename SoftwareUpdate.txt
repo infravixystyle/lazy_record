@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Cleanup Docs languages (#7865)
